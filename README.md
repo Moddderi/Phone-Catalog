@@ -1,9 +1,43 @@
-# React TypeScript Starter Pack
+# 📱 React Phone Catalog
 
-To use this template click `Use this template`
+A modern **React** project showcasing a **catalog of phones** with interactive features.  
+Browse products, add to favorites, manage your cart, explore different product sections, and enjoy a clean, responsive design.
 
-### Available Scripts
+---
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## 🔗 Demo
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Check out the live demo:  
+👉 [React Phone Catalog]()
+
+---
+
+## 🛍 Features
+
+- 🏷 **Browse Products** – View phones with images, descriptions, prices, and color variants  
+- ❤️ **Favorites** – Add or remove products to your favorites list  
+- 🛒 **Cart Management** – Add products to the cart, adjust quantity, remove items  
+- 🔍 **Product Filtering** – Filter by category, price, or color  
+- 🎨 **Color Variants** – Switch product color options dynamically  
+- 🏆 **Product Sections** – Sections like “Best Sellers”, “New Arrivals”, “Shop by Category”  
+- 📱 **Responsive Design** – Works perfectly on mobile, tablet, and desktop  
+- ♻️ **Reusable Components** – Header, Footer, Product Cards, Pagination, Dropdowns  
+
+---
+
+## 🚀 Technologies Used
+
+- **React 18+**  
+- **TypeScript**  
+- **SCSS Modules**  
+- **Vite**  
+- **React Router**  
+- Custom Hooks for state management  
+
+---
+
+## ▶️ How to Run the Project
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/your-username/react-phone-catalog.git
