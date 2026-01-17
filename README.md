@@ -27,7 +27,7 @@ Check out the live demo:
 
 ## 🚀 Technologies Used
 
-- **React 18+**
+- **React**
 - **TypeScript**
 - **SCSS Modules**
 - **Vite**
