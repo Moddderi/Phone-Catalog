@@ -8,7 +8,7 @@ Browse products, add to favorites, manage your cart, explore different product s
 ## 🔗 Demo
 
 Check out the live demo:
-👉 [React Phone Catalog]()
+👉 [React Phone Catalog](https://moddderi.github.io/Phone-Catalog/)
 
 ---
 
